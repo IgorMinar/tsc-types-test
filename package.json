@@ -9,8 +9,10 @@
   "author": "Igor Minar",
   "license": "MIT",
   "devDependencies": {
-    "@types/protractor": "1.5.10-alpha",
+    "@types/fs-extra": "0.0.22-alpha",
+    "@types/protractor": "1.5.11-alpha",
+    "fs-extra": "^0.30.0",
     "protractor": "3.3.0",
-    "typescript": "1.9.0-dev.20160521-1.0"
+    "typescript": "^1.9.0-dev.20160525-1.0"
   }
 }
